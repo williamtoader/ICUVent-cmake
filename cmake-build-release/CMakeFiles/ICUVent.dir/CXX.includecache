@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libs/Button2/Button2.h
+Arduino.h
+../libs/Button2/Arduino.h
+
+../libs/EEPROMAnything/EEPROMAnything.h
+EEPROM.h
+-
+Arduino.h
+-
+
+../libs/ICUVentLibs/ICUVentLibs.h
+Arduino.h
+-
+Wire.h
+-
+Stepper.h
+-
+LiquidCrystal_I2C.h
+-
+Button2.h
+-
+EEPROMAnything.h
+-
+
+../libs/LiquidCrystal_I2C/LiquidCrystal_I2C.h
+inttypes.h
+-
+Print.h
+../libs/LiquidCrystal_I2C/Print.h
+Wire.h
+-
+
+../libs/Stepper/src/Stepper.h
+
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/EEPROM/src/EEPROM.h
+inttypes.h
+-
+avr/eeprom.h
+-
+avr/io.h
+-
+
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/Wire.h
+inttypes.h
+-
+Stream.h
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/Stream.h
+
+C:/Users/Wiliam/CLionProjects/ICUVent/cmake-build-release/ICUVent_main.ino.cpp
+Wire.h
+-
+Stepper.h
+-
+ICUVentLibs.h
+-
+Arduino.h
+-
+EEPROM.h
+-
+EEPROMAnything.h
+-
+Button2.h
+-
+Arduino.h
+C:/Users/Wiliam/CLionProjects/ICUVent/cmake-build-release/Arduino.h
+

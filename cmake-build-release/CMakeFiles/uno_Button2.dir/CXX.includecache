@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Button2/Button2.cpp
+Arduino.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Button2/Arduino.h
+Button2.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Button2/Button2.h
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Button2/Button2.h
+Arduino.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Button2/Arduino.h
+

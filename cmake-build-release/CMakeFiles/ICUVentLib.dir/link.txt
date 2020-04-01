@@ -1,0 +1,2 @@
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-ar.exe qc libICUVentLib.a  CMakeFiles/ICUVentLib.dir/libs/ICUVentLibs/Menu.cpp.obj CMakeFiles/ICUVentLib.dir/libs/ICUVentLibs/Functions.cpp.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-RA~1.EXE libICUVentLib.a

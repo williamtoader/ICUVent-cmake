@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/Wire.h
+inttypes.h
+-
+Stream.h
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/Stream.h
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/LiquidCrystal_I2C/LiquidCrystal_I2C.cpp
+LiquidCrystal_I2C.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/LiquidCrystal_I2C/LiquidCrystal_I2C.h
+inttypes.h
+-
+Wire.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/LiquidCrystal_I2C/Wire.h
+Arduino.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/LiquidCrystal_I2C/Arduino.h
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/LiquidCrystal_I2C/LiquidCrystal_I2C.h
+inttypes.h
+-
+Print.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/LiquidCrystal_I2C/Print.h
+Wire.h
+-
+

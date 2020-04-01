@@ -1,0 +1,31 @@
+"C:\Program Files\JetBrains\CLion 201.6668.10\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" C:\Users\Wiliam\CLionProjects\ICUVent
+-- Generating Wire
+-- Generating uno_Wire for library Wire
+-- Generating uno_twi for library twi
+-- Found library Wire needs uno_Wire;uno_twi
+-- Generating Stepper
+-- Generating ICUVentLib
+-- Generating LiquidCrystal_I2C
+-- Generating ICUVent
+-- Generating uno_ICUVentLibs for library ICUVentLibs
+-- Found library ICUVentLibs needs uno_Wire
+-- Generating uno_Stepper for library Stepper
+-- Found library Stepper needs uno_Wire
+-- Found library Stepper needs uno_ICUVentLibs
+-- Found library Stepper needs uno_Wire
+-- Generating uno_LiquidCrystal_I2C for library LiquidCrystal_I2C
+-- Found library LiquidCrystal_I2C needs uno_Stepper
+-- Found library Stepper needs uno_Wire;uno_LiquidCrystal_I2C
+-- Generating uno_Button2 for library Button2
+-- Found library Button2 needs uno_Wire;uno_LiquidCrystal_I2C
+-- Found library Stepper needs uno_Button2
+-- Generating uno_EEPROMAnything for library EEPROMAnything
+-- Found library EEPROMAnything needs uno_Button2
+-- Generating uno_EEPROM for library EEPROM
+-- Found library ICUVentLibs needs uno_ICUVentLibs;uno_Wire;uno_LiquidCrystal_I2C;uno_Button2;uno_EEPROM;uno_EEPROMAnything;uno_Stepper
+-- Found library ICUVentLibs needs uno_LiquidCrystal_I2C
+-- Found library ICUVentLibs needs uno_Button2
+-- Using C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-objcopy.exe for converting firmware image to hex
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Wiliam/CLionProjects/ICUVent/cmake-build-release

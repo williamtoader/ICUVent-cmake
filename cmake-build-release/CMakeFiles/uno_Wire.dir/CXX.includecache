@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/Wire.cpp
+stdlib.h
+-
+string.h
+-
+inttypes.h
+-
+utility/twi.h
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/utility/twi.h
+Wire.h
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/Wire.h
+
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/Wire.h
+inttypes.h
+-
+Stream.h
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/Stream.h
+
+C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src/utility/twi.h
+inttypes.h
+-
+

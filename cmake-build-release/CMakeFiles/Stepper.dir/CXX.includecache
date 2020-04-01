@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Stepper/src/Stepper.cpp
+Arduino.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Stepper/src/Arduino.h
+Stepper.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Stepper/src/Stepper.h
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Stepper/src/Stepper.h
+

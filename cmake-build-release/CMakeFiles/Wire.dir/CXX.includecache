@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Wire/src/Wire.cpp
+stdlib.h
+-
+string.h
+-
+inttypes.h
+-
+utility/twi.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Wire/src/utility/twi.h
+Wire.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Wire/src/Wire.h
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Wire/src/Wire.h
+inttypes.h
+-
+Stream.h
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Wire/src/Stream.h
+
+C:/Users/Wiliam/CLionProjects/ICUVent/libs/Wire/src/utility/twi.h
+inttypes.h
+-
+
